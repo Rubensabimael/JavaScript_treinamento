@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: darkgray;
+    border: 0;
+    padding: 10px;
+    width: 20rem;
+    display: flex;
+    margin: 25rem;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.corpo {
+    margin: 10% 20% 20%;
+    display: flexbox;
+}
+
+.calc {
+    background-color: aliceblue;
+    margin: 30% 30% 30%;
+    display: flex;
+}
+
+ul {
+    background-color: aliceblue;
+    margin: 50% 50% 50%;
+    display: flex;
+}
+
+a {
+    background-color: aliceblue;
+    padding: 10% 10% 10%;
+    left: auto;
+}
